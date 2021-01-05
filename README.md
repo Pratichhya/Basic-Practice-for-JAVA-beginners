@@ -1,2 +1,3 @@
 # practiseSD
-This repo is created to store the java activities done during the practice of basic of software developement during first semester of Copernicus Master of Digital Earth
+This repo contains the basic of Java practice done during the practicle session of basic of Software Developement during first semester of Copernicus Master of Digital Earth.
+
